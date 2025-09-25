@@ -1,2 +1,3 @@
 #           gama-toolkit
-Empower your red team with our CLI-based powerhouse that dominates every phase of web and Active Directory pentesting—from recon to exploitation—in a single, streamlined command-line interface.
+GAMA ToolKit is a CLI-based cybersecurity toolkit designed for penetration testing and security assessments. 
+It integrates multiple tools into a single interface with a phased workflow.
